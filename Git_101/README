@@ -26,4 +26,4 @@ Eligible for Certification	No
 2) weather_trend.py
 Python script to calculate trend in TAVG (average daily temperature).
 
-TO DO: calculate linear trend in TMAX (maximum daily temperature).
+TO DO: calculate linear trend in TMAX (maximum daily temperature). 
